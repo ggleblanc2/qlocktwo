@@ -10,7 +10,11 @@ So, I went ahead and built my own version of the Qlocktwo using Java Swing. Here
 
 ![Qlocktwo JFrame](qlocktwo.png)
 
-I rearranged the letters in the 3rd row, but otherwise, I copied the letters from the Qlocktwo. I snapped the screen shot at 7:11 in the morning. The four dots on the outside corners represent minutes. The words change every five minutes.
+Here's a second image, taken later.
+
+![Qlocktwo JFrame](qlocktwo2.png)
+
+I rearranged the letters in the 3rd row, but otherwise, I copied the letters from the Qlocktwo. I snapped the first screen shot at 7:11 in the morning and the second at 7:57. The four dots on the outside corners represent minutes. The words change every five minutes.
 
 I’ve not seen a Qlocktwo in operation. I’ve seen a few pictures. I had to guess which letters lit to represent different times. I hope I guessed well.
 
