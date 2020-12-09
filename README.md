@@ -34,7 +34,7 @@ Data classes like QlocktwoCharacter are useful for organizing data into structur
 
 The QlocktwoModel class is the main model class for the GUI. I have a char[][] array for the characters, and some other fields that help determine the status of the clock.
 
-I copied the char[][] array into the Qlocktwo[][] array. I changed one of the O characters on the last row to &#x01A0 for &#x01A0 clock.
+I copied the char[][] array into the Qlocktwo[][] array. I changed one of the O characters on the last row to O' for O'clock.
 
 I came up with a clever scheme for defining the words I wanted to display. As far as I could tell, all the words were in the rows. There were no words that were in a column. So, I came up with a way to specify the word I wanted by listing the row and the columns that made up a word. You can see that starting with the setItIs method. The setCharacters method took those numbers and used them as array indices to turn on the characters in the QlocktwoCharacter array.
 
